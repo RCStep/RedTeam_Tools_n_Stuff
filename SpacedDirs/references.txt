@@ -1,0 +1,3 @@
+http://pinvoke.net/default.aspx/kernel32/CreateDirectory.html
+
+https://www.pinvoke.net/default.aspx/kernel32.removedirectory
