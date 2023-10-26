@@ -1,4 +1,4 @@
-# SetAttributes
+# DeleteonReboot
 Usage: DeleteonReboot.exe [path_to_file]  
 
 C# tool to schedule a file for deleteion on next reboot.  
