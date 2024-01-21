@@ -8,3 +8,5 @@ SetAttributes - Sets various Windows file/folder attributes
 SpacedDirs - Allows adding a trailing space to Windows directory folders  
 
 Vanity_Dump - minidumpwritedump a RtlCreateProcessReflection copy of a targeted Windows process  
+
+SmartPIDSelection - Smart-ish function to choose a named process PID based on the running Session, User Identity (including multiple identities in say, session 0), and lowest PID number  
