@@ -1,4 +1,4 @@
-# Vanity_Dump
+# SmartPIDSelection
 Usage: SmartPIDSelection.exe [process name]  
 
 C# tool/function Smart-ish-ly choose a named process PID based on the running Session, User Identity, and lowest PID number.  
