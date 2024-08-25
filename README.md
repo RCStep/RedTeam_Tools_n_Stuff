@@ -13,4 +13,4 @@ SmartPIDSelection - Smart-ish function to choose a named process PID based on th
 
 Explorer_open - open a local or remote folder or file with the Windows Explorer file browser.  
 
-SplitandMerge - Tool to split/reassemble/run a file into/from chuncks to avoid signatures that may trigger on copy or execution.  
+SplitandMerge - Tool to split/reassemble/run a file into/from chunks to avoid signatures that may trigger on copy or execution.  

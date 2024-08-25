@@ -1,6 +1,6 @@
 **SplitandMerge.exe**  
   
-Tool to split/reassemble/run a file into/from chuncks to avoid signatures that may trigger on copy or execution.  
+Tool to split/reassemble/run a file into/from chunks to avoid signatures that may trigger on copy or execution.  
   
 Includes the ability to merge and resize the chunks back into an exe, execute, delete, or run a merged .NET assembly entirely in memory.  
   
